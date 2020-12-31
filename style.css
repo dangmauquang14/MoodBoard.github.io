@@ -76,14 +76,11 @@ h1 a{
 img{
     width: 95%;
     margin: 0 0.25em;
+    transition: transform 0.3s;
 }
 
 img:hover {
     transform: scale(1.1);
-}
-
-img {
-    transition: transform 0.3s;
 }
 
 /* home page */

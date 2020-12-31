@@ -1,0 +1,84 @@
+/* main */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:  border-box;
+}
+#main{
+    width: fit-content auto;
+    margin-bottom: 1em;
+}
+
+
+/* header */
+#header{
+    margin: 1em 0.5em;
+}
+
+ul{
+    background: darkblue;
+    text-align: center;
+}
+
+li { 
+    font-weight: bold;
+    font-size: 1.5em;
+    display: inline-block;
+    width: 19%;
+    height: 40px;
+    line-height: 40px;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+#index{
+    background-color: red;
+}
+
+/* content */
+
+#content{
+    width: 100% auto;
+    display: grid;
+    grid-template-columns: 16.667% 16.667% 16.667% 16.667% 16.667% 16.667%;
+}
+
+img{
+    width: 95%;
+    margin: 0 0.25em;
+}
+
+figure{
+    text-align: center;
+    margin-bottom: 9px;
+    font-family: Arial, Sans-Serif;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+
+h1{
+    text-align: center;
+}
+
+h1 a{
+    text-decoration: none;
+    color: darkred;
+}
+
+
+#div1{
+    margin-left: 0.25em;
+}
+
+/* home page */
+
+.homepage img{
+    height: 350px;
+}

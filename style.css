@@ -26,8 +26,8 @@ li {
     font-size: 1.5em;
     display: inline-block;
     width: 19%;
-    height: 40px auto;
-    line-height: 40px auto;
+    height: 40px;
+    line-height: 40px;
 }
 
 

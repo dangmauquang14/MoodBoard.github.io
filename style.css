@@ -86,6 +86,6 @@ img:hover {
 /* home page */
 
 .homepage img{
-    max-height: 300px;
+    height: 300px;
     min-height: 70px;
 }

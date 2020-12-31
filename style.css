@@ -89,6 +89,6 @@ img {
 /* home page */
 
 .homepage img{
-    height: 300px;
+    max-height: 300px;
     min-height: 70px;
 }

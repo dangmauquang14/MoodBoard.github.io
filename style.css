@@ -88,9 +88,10 @@ img {
     -moz-transition: -moz-transform 0.2s;
     -o-transition: -o-transform 0.2s;
 }
+
 /* home page */
 
 .homepage img{
-    height: 300px;
+    max-height: 300px;
     min-height: 70px;
 }

@@ -83,15 +83,12 @@ img:hover {
 }
 
 img {
-    transition: transform 0.2s;
-    -webkit-transition: -webkit-transform 0.2s;
-    -moz-transition: -moz-transform 0.2s;
-    -o-transition: -o-transform 0.2s;
+    transition: transform 0.3s;
 }
 
 /* home page */
 
 .homepage img{
-    max-height: 300px;
+    height: 300px;
     min-height: 70px;
 }
